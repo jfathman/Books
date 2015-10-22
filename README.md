@@ -15,6 +15,7 @@ Resende, Diogo
 Deploying Node.js
 Pasquali, Sandro
 
+
 JavaScript with Promises
 Parker, Daniel
 
