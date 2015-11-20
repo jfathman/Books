@@ -1,5 +1,15 @@
 # books
+
 ```
+The Go Programming Language
+Donovan and Kernighan
+
+Go in Action,
+Kennedy, Ketelsen, and St. Martin
+
+Learn Git in a Month of Lunches
+Umali, Rick
+
 Introduction to React
 Gackenheimer, Cory
 
