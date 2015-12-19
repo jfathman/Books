@@ -1,10 +1,13 @@
 # books
 
 ```
+Professional C++, 3rd Ed.
+Gregoire, Marc
+
 The Go Programming Language
 Donovan and Kernighan
 
-Go in Action,
+Go in Action
 Kennedy, Ketelsen, and St. Martin
 
 Learn Git in a Month of Lunches
