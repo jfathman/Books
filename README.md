@@ -1,6 +1,12 @@
 # books
 
 ```
+You Don't Know JS: ES6 & Beyond
+Kyle Simpson
+
+Mastering Embedded Linux Programming
+Chris Simmonds
+
 Professional C++, 3rd Ed.
 Gregoire, Marc
 
