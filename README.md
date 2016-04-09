@@ -2,16 +2,16 @@
 
 ```
 Docker in Action
-Jeff Nickoloff
+Nickoloff, Jeff
 
 Practical Electronics for Inventors, 4th Ed.
-Paul Scherz and Simon Monk
+Scherz, Paul and Monk, Simon
 
 You Don't Know JS: ES6 & Beyond
-Kyle Simpson
+Simpson, Kyle
 
 Mastering Embedded Linux Programming
-Chris Simmonds
+Simmonds, Chris
 
 Professional C++, 3rd Ed.
 Gregoire, Marc
