@@ -1,6 +1,12 @@
 # books
 
 ```
+Docker in Action
+Jeff Nickoloff
+
+Practical Electronics for Inventors, 4th Ed.
+Paul Scherz and Simon Monk
+
 You Don't Know JS: ES6 & Beyond
 Kyle Simpson
 
