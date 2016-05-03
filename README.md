@@ -1,6 +1,10 @@
 # books
 
 ```
+Make: Bluetooth
+Bluetooth LE Projects for Arduino, Raspberry Pi, and Smartphones
+Alasdair, Coleman, and Mistry
+
 Docker in Action
 Nickoloff, Jeff
 
