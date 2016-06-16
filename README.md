@@ -1,6 +1,15 @@
 # books
 
 ```
+Functional Programming in JavaScript
+Atencio, Luis
+
+Exploring Raspberry Pi
+Molloy, Derek
+
+Building the Web of Things
+Guinard, Dominique and Trifa, Vlad
+
 Make: Bluetooth
 Bluetooth LE Projects for Arduino, Raspberry Pi, and Smartphones
 Alasdair, Coleman, and Mistry
