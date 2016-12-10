@@ -1,6 +1,9 @@
 # books
 
 ```
+Secrets of the JavaScript Ninja, 2nd Ed.
+Resig, Bibeault, and Maras
+
 Functional Programming in JavaScript
 Atencio, Luis
 
