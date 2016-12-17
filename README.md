@@ -1,6 +1,9 @@
 # books
 
 ```
+Hapi.js In Action
+Harrison, Matt
+
 Secrets of the JavaScript Ninja, 2nd Ed.
 Resig, Bibeault, and Maras
 
