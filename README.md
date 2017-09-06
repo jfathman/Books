@@ -1,6 +1,18 @@
-# books
+# Books
 
 ```
+AWS Lambda in Action
+Poccia, Danilo
+
+Serverless Architectures on AWS
+Sbarski, Peter
+
+Amazon Web Services in a Month of Lunches
+Clinton, David
+
+RxJS in Action
+Daniels, Paul and Atencio, Luis
+
 Hapi.js In Action
 Harrison, Matt
 
