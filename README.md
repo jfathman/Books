@@ -1,6 +1,9 @@
 # Books
 
 ```
+Node.js in Action, 2nd Ed.
+Young, Meck, and Cantelon
+
 AWS Lambda in Action
 Poccia, Danilo
 
