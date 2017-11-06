@@ -1,6 +1,13 @@
 # Books
 
 ```
+C++17 STL Cookbook
+Galowicz, Jacek
+
+Low-Level Programming
+C, Assembly, and Program Execution on Intel 64 Architecture
+Zhirkov, Igor
+
 Node.js in Action, 2nd Ed.
 Young, Meck, and Cantelon
 
