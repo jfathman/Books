@@ -1,6 +1,30 @@
 # Books
 
 ```
+Mastering Node.js, 2nd Ed.
+Pasquali and Faaborg
+
+Mastering JavaScript Functional Programming
+Kereki, Federico
+
+MQTT Essentials - A Lightweight IoT Protocol
+Hillar, Gaston
+
+Linux Device Drivers Development
+Madieu, John
+
+Mastering Linux Kernel Development
+Bharadwaj, Raghu
+
+Microcontrollers: Fundamentals and Applications with PIC
+Valdes-Perez and Pallas-Areny
+
+Programming PIC Microcontrollers with XC8
+Subero, Armstrong
+
+Grob's Basic Electronics, 12th Ed.
+Schultz, Mitchel
+
 C++17 STL Cookbook
 Galowicz, Jacek
 
